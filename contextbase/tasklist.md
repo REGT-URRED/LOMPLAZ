@@ -20,10 +20,10 @@
 - [x] Crear `.gitignore` y excluir binarios y PDF con datos personales
 - [x] Inicializar el repositorio local y configurar el autor
 - [x] Agregar el remoto de GitHub sin guardar el token
+- [x] Publicar la rama `main` en GitHub
 
 ## Pendientes
 
-- [ ] Confirmar el push a `https://github.com/REGT-URRED/LOMPLAZ.git`
 - [ ] Procesar los 30 PDF reales cuando estén en `entrada/`
 - [ ] Revisar el reporte del lote y abrir una muestra de cada carpeta de salida
 - [ ] Agregar pruebas automáticas para `logo_engine.py`

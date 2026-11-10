@@ -20,7 +20,7 @@ Esta carpeta guarda lo que el proyecto sabe de sí mismo: objetivo, estructura, 
 | Entrada | `entrada/cambiar.pdf`, 120 páginas |
 | Salida | `entrega/ejemplo/cambiar_logo_nuevo.pdf`, 120 páginas |
 | Reemplazos | 240, repartidos en 120 de encabezado y 120 de pie |
-| Repositorio | Commit local preparado; push pendiente de autorización |
+| Repositorio | Publicado en `main`, commit `b676aa9` |
 | Lote real | Pendiente: 30 PDF que todavía no están en la carpeta |
 
 ## Consulta rápida

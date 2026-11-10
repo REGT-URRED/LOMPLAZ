@@ -17,7 +17,7 @@ El caso de uso original es un lote de 30 archivos de aproximadamente 120 página
 | Reemplazos en la prueba | 240: 120 en encabezado y 120 en pie |
 | Verificación | Texto, metadatos, marcadores y tamaños de página sin cambios; 0 referencias a la imagen antigua |
 | Tiempo observado | 5,9 s en la validación inicial; 8,6 s en la prueba posterior a la reorganización |
-| Repositorio Git | Inicializado en `main`; commit local preparado; push pendiente de autorización |
+| Repositorio Git | Publicado en `main`; commit inicial `b676aa9` |
 | Lote real de 30 archivos | Pendiente: los archivos no están en esta carpeta |
 
 ## 3. Estructura
@@ -92,6 +92,7 @@ Cada salida se llama `nombre_original_logo_nuevo.pdf`. Si el nombre ya existe, s
 - Rama: `main`.
 - El token de GitHub no se guarda en el repositorio ni en la URL del remoto.
 - El EXE y los PDF de muestra quedan fuera de Git. Se pueden publicar como release o entregar aparte.
+- El push inicial se completó el 2026-11-10 sobre `main`. El repositorio remoto estaba vacío y no se usó `--force`.
 
 ## 8. Comandos
 

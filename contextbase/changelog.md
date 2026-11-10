@@ -6,6 +6,14 @@ Registro de cambios, decisiones y resultados del reemplazador de logos PDF.
 
 ## Cambios realizados
 
+### 2026-11-10: Push a GitHub
+
+- Se publicó la rama `main` en `https://github.com/REGT-URRED/LOMPLAZ.git`.
+- Commit inicial publicado: `b676aa9`, con 23 archivos y 211 KB.
+- Autor del commit: `REGT-URRED <U19211826@utp.edu.pe>`.
+- El repositorio remoto estaba vacío; el push se aceptó como nueva rama.
+- La autenticación se hizo con el token una sola vez. El token no quedó en `.git/config`, en la URL del remoto ni en archivos del proyecto.
+
 ### 2026-11-10: Preparación de Git y privacidad
 
 - Se creó `.gitignore` para excluir entornos, credenciales, cachés, builds, `node_modules`, archivos del sistema, el EXE y los PDF con datos personales.

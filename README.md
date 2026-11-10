@@ -53,3 +53,7 @@ El código se probó con Python 3.12, PyMuPDF 2.1 y Pillow 12.3.
 ## ContextBase
 
 La memoria del proyecto está en [`contextbase/`](contextbase/). Allí se registran el objetivo, la estructura, las decisiones, las tareas y los cambios. Cualquier modificación futura del código debe terminar actualizando `contextbase/changelog.md` y `contextbase/tasklist.md`.
+
+## Repositorio
+
+https://github.com/REGT-URRED/LOMPLAZ
