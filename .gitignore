@@ -1,0 +1,53 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Entornos y credenciales
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.*
+.venv/
+venv/
+env/
+
+# Dependencias locales
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage/
+
+# Compilación y salida de herramientas
+app/build/
+app/dist/
+build/
+dist/
+.next/
+out/
+*.spec
+
+# Entregables binarios
+entrega/*.exe
+entrega/*.msi
+entrega/*.zip
+
+# PDF con información personal
+entrada/*.pdf
+entrega/ejemplo/*.pdf
+
+# Temporales y registros
+*.log
+*.tmp
+*.bak
